@@ -1,10 +1,8 @@
-const express = require("express")
-const PostController = require("../Controller/PostController")
-const route = express.Router()
+// const express = require("express")
+// const PostController = require("../Controller/PostController")
+// const route = express.Router()
 
+// route.get("/",PostController.getData)
+// route.post("/",PostController.postData)
 
-
-route.get("/",PostController.getData)
-route.post("/",PostController.postData)
-
-module.exports = route
+// module.exports = route
